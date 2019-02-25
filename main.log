@@ -1,0 +1,1082 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2019.2.25)  25 FEB 2019 22:27
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+(wileySix.cls
+
+
+ Wiley Book Style, Design No.: SD 001C
+ and SD 004B
+ 
+ Written by Amy Hendrickson, TeXnology, Inc.
+ 
+ This version is dated Feb 16, 2011
+
+
+\phspace=\dimen102
+\SpaceAboveChapterNumber=\dimen103
+\savefootnotenumber=\count79
+\ftnum=\count80
+\saveftnum=\count81
+\c@chapapp=\count82
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\partskip=\skip43
+\tabandfigskip=\skip44
+\footnum=\count92
+\savefootnum=\count93
+\@indexfile=\write3
+\openout3 = `main.idx'.
+
+Writing index file main.idx
+\iletterskip=\skip45
+\timing=\count94
+\hourcount=\count95
+\oldtime=\count96
+\probcount=\count97
+\subprobcount=\count98
+\c@subproblem=\count99
+\c@subproblem=\count100
+\widthofcropmarks=\dimen104
+\raisetopcropmarks=\dimen105
+\raisebottomcropmarks=\dimen106
+\movecropmarksright=\dimen107
+\c@theorem=\count101
+\c@appfootnote=\count102
+\slugwidth=\dimen108
+\slugheight=\dimen109
+\slugdepth=\dimen110
+\c@exampnum=\count103
+\c@algo=\count104
+\c@algorithm=\count105
+\chapskip=\dimen111
+\chapheight=\dimen112
+\authorskip=\dimen113
+)
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+sty"
+\lst@mode=\count106
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count107
+\lst@currlwidth=\dimen116
+\lst@column=\count108
+\lst@pos=\count109
+\lst@lostspace=\dimen117
+\lst@width=\dimen118
+\lst@newlines=\count110
+\lst@lineno=\count111
+\lst@maxwidth=\dimen119
+
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+ty"
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count112
+\lst@skipnumbers=\count113
+\lst@framebox=\box27
+)
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+cfg"
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count114
+\float@exts=\toks16
+\float@box=\box28
+\@float@everytoks=\toks17
+\@floatcapt=\box29
+)
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+) (w-bookps.sty
+
+
+ Using PostScript Fonts
+
+ Wiley Monograph/Edited Book Style
+ Feb 16, 2012
+
+ 
+)
+\sectsavebox=\box30
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 124.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 124.
+
+No file main.aux.
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 129.
+
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen120
+\scratchbox=\box31
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen121
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks19
+)
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@lstlisting=\count121
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 148.
+ [1{C:/Users/dezha/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 150.
+
+Overfull \hbox (18.37917pt too wide) in paragraph at lines 150--150
+[]\titlefont CERDAS MEN-GUA-SAI PYTHON 
+ []
+
+<kreatiflogo.png, id=9, 437.635pt x 207.77625pt>
+File: kreatiflogo.png Graphic file (type png)
+<use kreatiflogo.png>
+Package pdftex.def Info: kreatiflogo.png  used on input line 150.
+(pdftex.def)             Requested size: 122.85876pt x 58.32912pt.
+[3 <./kreatiflogo.png>] (info/copyrightpage.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+
+ []
+
+[4] [5
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 161.
+ (info/contributors.tex) [5] [6
+
+]
+No file main.toc.
+[7] [8
+
+]
+No file main.toc.
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+[9] [10
+
+]
+No file main.lof.
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+[11] [12
+
+]
+No file main.lot.
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+[13] [14
+
+]
+No file main.lol.
+\tf@lol=\write7
+\openout7 = `main.lol'.
+
+[15] [16
+
+] (info/foreword.tex) [17] [18
+
+] (info/preface.tex) [19] [20
+
+]
+(info/acknowledgments.tex [21]) [22
+
+] (info/acronyms.tex)
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 187.
+
+
+("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 187.
+[23] [24
+
+] (info/glossary.tex) [25] [26
+
+] (info/symbols.tex) [27] [28
+
+]
+(info/introduction.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+
+
+LaTeX Warning: Citation `awangga2018sampeu' on page xxix undefined on input lin
+e 13.
+
+) [29] [30
+
+]
+Bab 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 203.
+(chapters/1.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1]
+<figures/1.png, id=118, 386.04225pt x 299.31825pt>
+File: figures/1.png Graphic file (type png)
+<use figures/1.png>
+Package pdftex.def Info: figures/1.png  used on input line 11.
+(pdftex.def)             Requested size: 85.35367pt x 85.35683pt.
+<figures/2.png, id=119, 390.258pt x 306.54526pt>
+File: figures/2.png Graphic file (type png)
+<use figures/2.png>
+Package pdftex.def Info: figures/2.png  used on input line 19.
+(pdftex.def)             Requested size: 85.35681pt x 85.35965pt.
+<figures/3.png, id=120, 388.45125pt x 306.54526pt>
+File: figures/3.png Graphic file (type png)
+<use figures/3.png>
+Package pdftex.def Info: figures/3.png  used on input line 27.
+(pdftex.def)             Requested size: 85.35876pt x 85.35965pt.
+<figures/4.png, id=121, 385.44pt x 302.93175pt>
+File: figures/4.png Graphic file (type png)
+<use figures/4.png>
+Package pdftex.def Info: figures/4.png  used on input line 35.
+(pdftex.def)             Requested size: 85.35579pt x 85.35649pt.
+<figures/5.png, id=122, 384.2355pt x 301.72725pt>
+File: figures/5.png Graphic file (type png)
+<use figures/5.png>
+Package pdftex.def Info: figures/5.png  used on input line 43.
+(pdftex.def)             Requested size: 85.35287pt x 85.3578pt.
+<figures/6.png, id=123, 390.258pt x 306.54526pt>
+File: figures/6.png Graphic file (type png)
+<use figures/6.png>
+Package pdftex.def Info: figures/6.png  used on input line 53.
+(pdftex.def)             Requested size: 85.35681pt x 85.35965pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[2 <./figures/1.png> <./figures/2.png> <./figures/3.png>]
+Overfull \hbox (0.98723pt too wide) in paragraph at lines 63--64
+\OT1/ptm/m/n/10 men-jadi pe-rusa-haan komer-sial un-tuk BeOpen.com dan men-cip-
+takan BeOpen Python-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[3 <./figures/4.png> <./figures/5.png> <./figures/6.png>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[4]
+
+LaTeX Warning: Citation `roihan2017monitoring' on page 5 undefined on input lin
+e 107.
+
+<figures/diva/1chp1diva.png, id=139, 374.90062pt x 292.09125pt>
+File: figures/diva/1chp1diva.png Graphic file (type png)
+<use figures/diva/1chp1diva.png>
+Package pdftex.def Info: figures/diva/1chp1diva.png  used on input line 117.
+(pdftex.def)             Requested size: 284.52756pt x 221.69302pt.
+<figures/diva/2chp1diva.png, id=140, 375.65344pt x 291.33844pt>
+File: figures/diva/2chp1diva.png Graphic file (type png)
+<use figures/diva/2chp1diva.png>
+Package pdftex.def Info: figures/diva/2chp1diva.png  used on input line 123.
+(pdftex.def)             Requested size: 284.52756pt x 220.68156pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[5 <./figures/diva/1chp1diva.png>]
+<figures/diva/3chp1diva.png, id=145, 374.90062pt x 292.09125pt>
+File: figures/diva/3chp1diva.png Graphic file (type png)
+<use figures/diva/3chp1diva.png>
+Package pdftex.def Info: figures/diva/3chp1diva.png  used on input line 129.
+(pdftex.def)             Requested size: 284.52756pt x 221.69302pt.
+<figures/diva/4chp1diva.png, id=146, 375.65344pt x 291.33844pt>
+File: figures/diva/4chp1diva.png Graphic file (type png)
+<use figures/diva/4chp1diva.png>
+Package pdftex.def Info: figures/diva/4chp1diva.png  used on input line 135.
+(pdftex.def)             Requested size: 284.52756pt x 220.68156pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[6 <./figures/diva/2chp1diva.png> <./figures/diva/3chp1diva.png>]
+<figures/diva/5chp1diva.png, id=153, 376.40625pt x 292.09125pt>
+File: figures/diva/5chp1diva.png Graphic file (type png)
+<use figures/diva/5chp1diva.png>
+Package pdftex.def Info: figures/diva/5chp1diva.png  used on input line 141.
+(pdftex.def)             Requested size: 284.52756pt x 220.81055pt.
+<figures/diva/6chp1diva.png, id=154, 374.90062pt x 290.58563pt>
+File: figures/diva/6chp1diva.png Graphic file (type png)
+<use figures/diva/6chp1diva.png>
+Package pdftex.def Info: figures/diva/6chp1diva.png  used on input line 147.
+(pdftex.def)             Requested size: 284.52756pt x 220.5503pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[7 <./figures/diva/4chp1diva.png> <./figures/diva/5chp1diva.png>]
+<figures/diva/7chp1diva.png, id=160, 374.90062pt x 292.09125pt>
+File: figures/diva/7chp1diva.png Graphic file (type png)
+<use figures/diva/7chp1diva.png>
+Package pdftex.def Info: figures/diva/7chp1diva.png  used on input line 153.
+(pdftex.def)             Requested size: 284.52756pt x 221.69302pt.
+<figures/diva/8chp1diva.png, id=161, 376.40625pt x 293.59688pt>
+File: figures/diva/8chp1diva.png Graphic file (type png)
+<use figures/diva/8chp1diva.png>
+Package pdftex.def Info: figures/diva/8chp1diva.png  used on input line 159.
+(pdftex.def)             Requested size: 284.52756pt x 221.94875pt.
+
+Underfull \vbox (badness 4967) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[8 <./figures/diva/6chp1diva.png> <./figures/diva/7chp1diva.png>]
+<figures/diva/9chp1diva.png, id=167, 377.15906pt x 292.84406pt>
+File: figures/diva/9chp1diva.png Graphic file (type png)
+<use figures/diva/9chp1diva.png>
+Package pdftex.def Info: figures/diva/9chp1diva.png  used on input line 165.
+(pdftex.def)             Requested size: 284.52756pt x 220.9194pt.
+<figures/diva/10chp1diva.png, id=168, 733.23938pt x 383.93437pt>
+File: figures/diva/10chp1diva.png Graphic file (type png)
+<use figures/diva/10chp1diva.png>
+Package pdftex.def Info: figures/diva/10chp1diva.png  used on input line 171.
+(pdftex.def)             Requested size: 284.52756pt x 148.98392pt.
+
+Underfull \vbox (badness 1303) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[9 <./figures/diva/8chp1diva.png> <./figures/diva/9chp1diva.png>]
+<figures/diva/11chp1diva.png, id=174, 627.84563pt x 578.16pt>
+File: figures/diva/11chp1diva.png Graphic file (type png)
+<use figures/diva/11chp1diva.png>
+Package pdftex.def Info: figures/diva/11chp1diva.png  used on input line 188.
+(pdftex.def)             Requested size: 284.52756pt x 262.00456pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10 <./figures/diva/10chp1diva.png>]
+<figures/diva/12chp1diva.png, id=179, 738.50906pt x 389.20406pt>
+File: figures/diva/12chp1diva.png Graphic file (type png)
+<use figures/diva/12chp1diva.png>
+Package pdftex.def Info: figures/diva/12chp1diva.png  used on input line 193.
+(pdftex.def)             Requested size: 284.52756pt x 149.94795pt.
+<figures/diva/13chp1diva.png, id=180, 755.07094pt x 407.27156pt>
+File: figures/diva/13chp1diva.png Graphic file (type png)
+<use figures/diva/13chp1diva.png>
+Package pdftex.def Info: figures/diva/13chp1diva.png  used on input line 198.
+(pdftex.def)             Requested size: 284.52756pt x 153.46597pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[11 <./figures/diva/11chp1diva.png> <./figures/diva/12chp1diva.png>]
+<figures/diva/14chp1diva.png, id=186, 627.84563pt x 578.16pt>
+File: figures/diva/14chp1diva.png Graphic file (type png)
+<use figures/diva/14chp1diva.png>
+Package pdftex.def Info: figures/diva/14chp1diva.png  used on input line 208.
+(pdftex.def)             Requested size: 284.52756pt x 262.00456pt.
+<figures/diva/15chp1diva.png, id=187, 1028.34187pt x 547.2947pt>
+File: figures/diva/15chp1diva.png Graphic file (type png)
+<use figures/diva/15chp1diva.png>
+Package pdftex.def Info: figures/diva/15chp1diva.png  used on input line 213.
+(pdftex.def)             Requested size: 284.52756pt x 151.42929pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12 <./figures/diva/13chp1diva.png> <./figures/diva/14chp1diva.png>]
+<figures/diva/16chp1diva.png, id=194, 1028.34187pt x 547.2947pt>
+File: figures/diva/16chp1diva.png Graphic file (type png)
+<use figures/diva/16chp1diva.png>
+Package pdftex.def Info: figures/diva/16chp1diva.png  used on input line 218.
+(pdftex.def)             Requested size: 284.52756pt x 151.42929pt.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+<figures/diva/17chp1diva.png, id=195, 395.97937pt x 286.82156pt>
+File: figures/diva/17chp1diva.png Graphic file (type png)
+<use figures/diva/17chp1diva.png>
+Package pdftex.def Info: figures/diva/17chp1diva.png  used on input line 227.
+(pdftex.def)             Requested size: 284.52756pt x 206.09558pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[13 <./figures/diva/15chp1diva.png> <./figures/diva/16chp1diva.png>]
+<figures/diva/18chp1diva.png, id=201, 1028.34187pt x 548.0475pt>
+File: figures/diva/18chp1diva.png Graphic file (type png)
+<use figures/diva/18chp1diva.png>
+Package pdftex.def Info: figures/diva/18chp1diva.png  used on input line 233.
+(pdftex.def)             Requested size: 284.52756pt x 151.63757pt.
+<figures/diva/20chp1diva.png, id=202, 543.53062pt x 475.02469pt>
+File: figures/diva/20chp1diva.png Graphic file (type png)
+<use figures/diva/20chp1diva.png>
+Package pdftex.def Info: figures/diva/20chp1diva.png  used on input line 241.
+(pdftex.def)             Requested size: 284.52756pt x 248.6741pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14 <./figures/diva/17chp1diva.png> <./figures/diva/18chp1diva.png>]
+<figures/diva/22chp1diva.png, id=208, 30.1125pt x 30.1125pt>
+File: figures/diva/22chp1diva.png Graphic file (type png)
+<use figures/diva/22chp1diva.png>
+Package pdftex.def Info: figures/diva/22chp1diva.png  used on input line 246.
+(pdftex.def)             Requested size: 56.9055pt x 56.91106pt.
+<figures/diva/21chp1diva.png, id=209, 487.06969pt x 231.11343pt>
+File: figures/diva/21chp1diva.png Graphic file (type png)
+<use figures/diva/21chp1diva.png>
+Package pdftex.def Info: figures/diva/21chp1diva.png  used on input line 251.
+(pdftex.def)             Requested size: 284.52756pt x 135.00862pt.
+<figures/diva/19chp1diva.png, id=210, 1028.34187pt x 548.0475pt>
+File: figures/diva/19chp1diva.png Graphic file (type png)
+<use figures/diva/19chp1diva.png>
+Package pdftex.def Info: figures/diva/19chp1diva.png  used on input line 256.
+(pdftex.def)             Requested size: 284.52756pt x 151.63757pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[15 <./figures/diva/20chp1diva.png> <./figures/diva/22chp1diva.png> <./figures/
+diva/21chp1diva.png>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[16 <./figures/diva/19chp1diva.png>]
+<figures/Screenshot(80).png, id=221, 1371.1225pt x 770.88pt>
+File: figures/Screenshot(80).png Graphic file (type png)
+<use figures/Screenshot(80).png>
+Package pdftex.def Info: figures/Screenshot(80).png  used on input line 280.
+(pdftex.def)             Requested size: 85.33928pt x 85.3499pt.
+<figures/Screenshot(81).png, id=222, 1371.1225pt x 770.88pt>
+File: figures/Screenshot(81).png Graphic file (type png)
+<use figures/Screenshot(81).png>
+Package pdftex.def Info: figures/Screenshot(81).png  used on input line 288.
+(pdftex.def)             Requested size: 85.33928pt x 85.3499pt.
+<figures/Screenshot(82).png, id=223, 1371.1225pt x 770.88pt>
+File: figures/Screenshot(82).png Graphic file (type png)
+<use figures/Screenshot(82).png>
+Package pdftex.def Info: figures/Screenshot(82).png  used on input line 296.
+(pdftex.def)             Requested size: 85.33928pt x 85.3499pt.
+<figures/Screenshot(83).png, id=224, 1371.1225pt x 770.88pt>
+File: figures/Screenshot(83).png Graphic file (type png)
+<use figures/Screenshot(83).png>
+Package pdftex.def Info: figures/Screenshot(83).png  used on input line 304.
+(pdftex.def)             Requested size: 85.33928pt x 85.3499pt.
+<figures/Screenshot(84).jpeg, id=225, 496.85625pt x 377.41pt>
+File: figures/Screenshot(84).jpeg Graphic file (type jpg)
+<use figures/Screenshot(84).jpeg>
+Package pdftex.def Info: figures/Screenshot(84).jpeg  used on input line 312.
+(pdftex.def)             Requested size: 85.35146pt x 85.35701pt.
+<figures/Screenshot(85).png, id=226, 1371.1225pt x 770.88pt>
+File: figures/Screenshot(85).png Graphic file (type png)
+<use figures/Screenshot(85).png>
+Package pdftex.def Info: figures/Screenshot(85).png  used on input line 320.
+(pdftex.def)             Requested size: 85.33928pt x 85.3499pt.
+<figures/Screenshot(86).png, id=227, 1371.1225pt x 770.88pt>
+File: figures/Screenshot(86).png Graphic file (type png)
+<use figures/Screenshot(86).png>
+Package pdftex.def Info: figures/Screenshot(86).png  used on input line 328.
+(pdftex.def)             Requested size: 85.33928pt x 85.3499pt.
+<figures/Screenshot(87).png, id=228, 1371.1225pt x 770.88pt>
+File: figures/Screenshot(87).png Graphic file (type png)
+<use figures/Screenshot(87).png>
+Package pdftex.def Info: figures/Screenshot(87).png  used on input line 336.
+(pdftex.def)             Requested size: 85.33928pt x 85.3499pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[17 <./figures/Screenshot(80).png> <./figures/Screenshot(81).png> <./figures/Sc
+reenshot(82).png>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[18 <./figures/Screenshot(83).png> <./figures/Screenshot(84).jpeg> <./figures/S
+creenshot(85).png> <./figures/Screenshot(86).png>]
+<figures/Screenshot(88).png, id=242, 1371.1225pt x 770.88pt>
+File: figures/Screenshot(88).png Graphic file (type png)
+<use figures/Screenshot(88).png>
+Package pdftex.def Info: figures/Screenshot(88).png  used on input line 344.
+(pdftex.def)             Requested size: 85.33928pt x 85.3499pt.
+<figures/Spyder.png, id=243, 1371.1225pt x 770.88pt>
+File: figures/Spyder.png Graphic file (type png)
+<use figures/Spyder.png>
+Package pdftex.def Info: figures/Spyder.png  used on input line 354.
+(pdftex.def)             Requested size: 85.33928pt x 85.3499pt.
+
+Overfull \hbox (0.59702pt too wide) in paragraph at lines 365--366
+\OT1/ptm/m/n/10 Python dicip-takan oleh Guido van Rossum un-tuk per-tama kaliny
+a di Sc-itcht-ing Math-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[19 <./figures/Screenshot(87).png> <./figures/Screenshot(88).png> <./figures/Sp
+yder.png>]
+Overfull \hbox (2.51555pt too wide) in paragraph at lines 367--368
+\OT1/ptm/m/n/10 search Ini-tia-tive (CNRI) di Vir-ginia Amer-ica, tem-pat ia me
+r-ilis be-ber-apa versi Python. 
+ []
+
+<figures/felix/1.png, id=250, 386.04225pt x 299.31825pt>
+File: figures/felix/1.png Graphic file (type png)
+<use figures/felix/1.png>
+Package pdftex.def Info: figures/felix/1.png  used on input line 378.
+(pdftex.def)             Requested size: 85.35367pt x 85.35683pt.
+<figures/felix/2.png, id=251, 390.258pt x 306.54526pt>
+File: figures/felix/2.png Graphic file (type png)
+<use figures/felix/2.png>
+Package pdftex.def Info: figures/felix/2.png  used on input line 385.
+(pdftex.def)             Requested size: 85.35681pt x 85.35965pt.
+<figures/felix/3.png, id=252, 388.45125pt x 306.54526pt>
+File: figures/felix/3.png Graphic file (type png)
+<use figures/felix/3.png>
+Package pdftex.def Info: figures/felix/3.png  used on input line 392.
+(pdftex.def)             Requested size: 85.35876pt x 85.35965pt.
+<figures/felix/4.png, id=253, 385.44pt x 302.93175pt>
+File: figures/felix/4.png Graphic file (type png)
+<use figures/felix/4.png>
+Package pdftex.def Info: figures/felix/4.png  used on input line 399.
+(pdftex.def)             Requested size: 85.35579pt x 85.35649pt.
+<figures/felix/5.png, id=254, 384.2355pt x 301.72725pt>
+File: figures/felix/5.png Graphic file (type png)
+<use figures/felix/5.png>
+Package pdftex.def Info: figures/felix/5.png  used on input line 406.
+(pdftex.def)             Requested size: 85.35287pt x 85.3578pt.
+<figures/felix/6.png, id=255, 390.258pt x 306.54526pt>
+File: figures/felix/6.png Graphic file (type png)
+<use figures/felix/6.png>
+Package pdftex.def Info: figures/felix/6.png  used on input line 413.
+(pdftex.def)             Requested size: 85.35681pt x 85.35965pt.
+<figures/felix/8.png, id=256, 391.4625pt x 305.34074pt>
+File: figures/felix/8.png Graphic file (type png)
+<use figures/felix/8.png>
+Package pdftex.def Info: figures/felix/8.png  used on input line 420.
+(pdftex.def)             Requested size: 85.35744pt x 85.35504pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[20 <./figures/felix/1.png>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[21 <./figures/felix/2.png> <./figures/felix/3.png> <./figures/felix/4.png> <./
+figures/felix/5.png>]
+<figures/felix/9.png, id=268, 389.65575pt x 298.716pt>
+File: figures/felix/9.png Graphic file (type png)
+<use figures/felix/9.png>
+Package pdftex.def Info: figures/felix/9.png  used on input line 427.
+(pdftex.def)             Requested size: 85.3559pt x 85.35828pt.
+<figures/felix/10.png, id=269, 1151.502pt x 575.751pt>
+File: figures/felix/10.png Graphic file (type png)
+<use figures/felix/10.png>
+Package pdftex.def Info: figures/felix/10.png  used on input line 436.
+(pdftex.def)             Requested size: 85.3574pt x 85.3574pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[22 <./figures/felix/6.png> <./figures/felix/8.png> <./figures/felix/9.png>]
+<figures/oni/1.png, id=276, 492.33937pt x 92.59593pt>
+File: figures/oni/1.png Graphic file (type png)
+<use figures/oni/1.png>
+Package pdftex.def Info: figures/oni/1.png  used on input line 458.
+(pdftex.def)             Requested size: 85.35684pt x 85.35881pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[23 <./figures/felix/10.png>]
+<figures/oni/2.png, id=281, 384.6872pt x 298.11375pt>
+File: figures/oni/2.png Graphic file (type png)
+<use figures/oni/2.png>
+Package pdftex.def Info: figures/oni/2.png  used on input line 465.
+(pdftex.def)             Requested size: 85.3593pt x 85.35904pt.
+<figures/oni/3.png, id=282, 380.17032pt x 300.3722pt>
+File: figures/oni/3.png Graphic file (type png)
+<use figures/oni/3.png>
+Package pdftex.def Info: figures/oni/3.png  used on input line 473.
+(pdftex.def)             Requested size: 85.3548pt x 85.35945pt.
+<figures/oni/4.png, id=283, 380.17032pt x 281.55188pt>
+File: figures/oni/4.png Graphic file (type png)
+<use figures/oni/4.png>
+Package pdftex.def Info: figures/oni/4.png  used on input line 480.
+(pdftex.def)             Requested size: 85.3548pt x 85.3555pt.
+<figures/oni/5.png, id=284, 380.17032pt x 288.3272pt>
+File: figures/oni/5.png Graphic file (type png)
+<use figures/oni/5.png>
+Package pdftex.def Info: figures/oni/5.png  used on input line 486.
+(pdftex.def)             Requested size: 85.3548pt x 85.35934pt.
+
+Underfull \vbox (badness 2393) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[24 <./figures/oni/1.png> <./figures/oni/2.png> <./figures/oni/3.png> <./figure
+s/oni/4.png>]
+<figures/oni/6.png, id=289, 377.91188pt x 298.86656pt>
+File: figures/oni/6.png Graphic file (type png)
+<use figures/oni/6.png>
+Package pdftex.def Info: figures/oni/6.png  used on input line 493.
+(pdftex.def)             Requested size: 85.35518pt x 85.3557pt.
+<figures/oni/7.png, id=290, 381.67593pt x 295.1025pt>
+File: figures/oni/7.png Graphic file (type png)
+<use figures/oni/7.png>
+Package pdftex.def Info: figures/oni/7.png  used on input line 501.
+(pdftex.def)             Requested size: 85.35504pt x 85.35687pt.
+<figures/oni/8.png, id=291, 382.42876pt x 292.09125pt>
+File: figures/oni/8.png Graphic file (type png)
+<use figures/oni/8.png>
+Package pdftex.def Info: figures/oni/8.png  used on input line 509.
+(pdftex.def)             Requested size: 85.35417pt x 85.35945pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[25 <./figures/oni/5.png> <./figures/oni/6.png> <./figures/oni/7.png>]
+<figures/oni/9.png, id=295, 380.17032pt x 285.31593pt>
+File: figures/oni/9.png Graphic file (type png)
+<use figures/oni/9.png>
+Package pdftex.def Info: figures/oni/9.png  used on input line 517.
+(pdftex.def)             Requested size: 85.3548pt x 85.35599pt.
+<figures/oni/10.png, id=296, 381.67593pt x 292.09125pt>
+File: figures/oni/10.png Graphic file (type png)
+<use figures/oni/10.png>
+Package pdftex.def Info: figures/oni/10.png  used on input line 525.
+(pdftex.def)             Requested size: 85.35504pt x 85.35945pt.
+<figures/oni/oni.png, id=297, 269.50688pt x 169.38281pt>
+File: figures/oni/oni.png Graphic file (type png)
+<use figures/oni/oni.png>
+Package pdftex.def Info: figures/oni/oni.png  used on input line 535.
+(pdftex.def)             Requested size: 85.3598pt x 85.3606pt.
+<figures/oni/11.png, id=298, 468.24937pt x 131.74219pt>
+File: figures/oni/11.png Graphic file (type png)
+<use figures/oni/11.png>
+Package pdftex.def Info: figures/oni/11.png  used on input line 541.
+(pdftex.def)             Requested size: 85.35298pt x 85.36201pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[26 <./figures/oni/8.png> <./figures/oni/9.png> <./figures/oni/10.png> <./figur
+es/oni/oni.png>]
+Overfull \hbox (9.70657pt too wide) in paragraph at lines 551--552
+\OT1/ptm/m/n/10 lu-nak komer-sial. Dan lebi-h-nya lagi ba-hasa pe-mogra-man Pyt
+hon ini gratis atau \OT1/ptm/m/it/10 freewere\OT1/ptm/m/n/10 ,
+ []
+
+<figures/dezha/Screenshot1.png, id=303, 496.10344pt x 305.64188pt>
+File: figures/dezha/Screenshot1.png Graphic file (type png)
+<use figures/dezha/Screenshot1.png>
+Package pdftex.def Info: figures/dezha/Screenshot1.png  used on input line 562.
+
+(pdftex.def)             Requested size: 85.35083pt x 85.35527pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[27 <./figures/oni/11.png> <./figures/dezha/Screenshot1.png>]
+<figures/dezha/Screenshot2.png, id=309, 376.40625pt x 291.33844pt>
+File: figures/dezha/Screenshot2.png Graphic file (type png)
+<use figures/dezha/Screenshot2.png>
+Package pdftex.def Info: figures/dezha/Screenshot2.png  used on input line 570.
+
+(pdftex.def)             Requested size: 85.35973pt x 85.35728pt.
+<figures/dezha/Screenshot3.png, id=310, 368.87813pt x 286.82156pt>
+File: figures/dezha/Screenshot3.png Graphic file (type png)
+<use figures/dezha/Screenshot3.png>
+Package pdftex.def Info: figures/dezha/Screenshot3.png  used on input line 577.
+
+(pdftex.def)             Requested size: 85.358pt x 85.35562pt.
+<figures/dezha/Screenshot4.png, id=311, 368.87813pt x 291.33844pt>
+File: figures/dezha/Screenshot4.png Graphic file (type png)
+<use figures/dezha/Screenshot4.png>
+Package pdftex.def Info: figures/dezha/Screenshot4.png  used on input line 584.
+
+(pdftex.def)             Requested size: 85.358pt x 85.35728pt.
+<figures/dezha/Screenshot5.png, id=312, 370.38374pt x 289.08pt>
+File: figures/dezha/Screenshot5.png Graphic file (type png)
+<use figures/dezha/Screenshot5.png>
+Package pdftex.def Info: figures/dezha/Screenshot5.png  used on input line 591.
+
+(pdftex.def)             Requested size: 85.356pt x 85.35725pt.
+<figures/dezha/Screenshot7.png, id=313, 369.63094pt x 288.3272pt>
+File: figures/dezha/Screenshot7.png Graphic file (type png)
+<use figures/dezha/Screenshot7.png>
+Package pdftex.def Info: figures/dezha/Screenshot7.png  used on input line 598.
+
+(pdftex.def)             Requested size: 85.35736pt x 85.35934pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[28 <./figures/dezha/Screenshot2.png> <./figures/dezha/Screenshot3.png> <./figu
+res/dezha/Screenshot4.png> <./figures/dezha/Screenshot5.png>]
+<figures/dezha/Screenshot9.png, id=321, 368.87813pt x 288.3272pt>
+File: figures/dezha/Screenshot9.png Graphic file (type png)
+<use figures/dezha/Screenshot9.png>
+Package pdftex.def Info: figures/dezha/Screenshot9.png  used on input line 605.
+
+(pdftex.def)             Requested size: 85.358pt x 85.35934pt.
+<figures/dezha/Screenshot10.png, id=322, 1371.1225pt x 770.88pt>
+File: figures/dezha/Screenshot10.png Graphic file (type png)
+<use figures/dezha/Screenshot10.png>
+Package pdftex.def Info: figures/dezha/Screenshot10.png  used on input line 615
+.
+(pdftex.def)             Requested size: 85.33928pt x 85.3499pt.
+)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[29 <./figures/dezha/Screenshot7.png> <./figures/dezha/Screenshot9.png> <./figu
+res/dezha/Screenshot10.png>] [30
+
+]
+Bab 2.
+(chapters/2.tex)
+No file main.bbl.
+[31] [32
+
+]
+No file main.ind.
+(main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3600 strings out of 493305
+ 55171 string characters out of 3129802
+ 297346 words of memory out of 3000000
+ 6999 multiletter control sequences out of 15000+200000
+ 63002 words of font info for 114 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,14n,47p,1252b,383s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+}<C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmex10.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/dezha/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/dezha/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dezha
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:
+/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.
+pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/
+uhvr8a.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
+mes/utmb8a.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
+w/times/utmbi8a.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/urw/times/utmr8a.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (63 pages, 9691628 bytes).
+PDF statistics:
+ 380 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 341 words of extra memory for PDF output out of 10000 (max. 10000000)
+
