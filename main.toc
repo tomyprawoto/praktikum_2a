@@ -1,0 +1,14 @@
+\contentsline {schapter}{Daftar Gambar}{xi}% 
+\contentsline {schapter}{Daftar Tabel}{xiii}% 
+\contentsline {schapter}{Foreword}{xvii}% 
+\contentsline {schapter}{Kata Pengantar}{xix}% 
+\contentsline {schapter}{Acknowledgments}{xxi}% 
+\contentsline {schapter}{Acronyms}{xxiii}% 
+\contentsline {schapter}{Glossary}{xxv}% 
+\contentsline {schapter}{List of Symbols}{xxvii}% 
+\contentsline {schapter}{Introduction}{xxix}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxix}% 
+\contentsline {chapter}{\numberline {1}SEJARAH DAN KARAKTERISTIK PYTHON}{1}% 
+\contentsline {section}{\numberline {1.1}Sejarah Python}{1}% 
+\contentsline {chapter}{\numberline {2}Judul Bagian Kedua}{3}% 
+\contentsline {section}{\numberline {2.1}Perintah Navigasi}{3}% 
