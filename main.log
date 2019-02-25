@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2019.2.25)  25 FEB 2019 22:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2019.2.25)  25 FEB 2019 22:46
 entering extended mode
 **./main.tex
 (main.tex
@@ -157,8 +157,86 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 124.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 124.
+ (main.aux
 
-No file main.aux.
+LaTeX Warning: Label `awal' multiply defined.
+
+
+LaTeX Warning: Label `Proses' multiply defined.
+
+
+LaTeX Warning: Label `spyder' multiply defined.
+
+
+LaTeX Warning: Label `awal' multiply defined.
+
+
+LaTeX Warning: Label `awal' multiply defined.
+
+
+LaTeX Warning: Label `awal' multiply defined.
+
+
+LaTeX Warning: Label `awal' multiply defined.
+
+
+LaTeX Warning: Label `awal' multiply defined.
+
+
+LaTeX Warning: Label `awal' multiply defined.
+
+
+LaTeX Warning: Label `awal' multiply defined.
+
+
+LaTeX Warning: Label `awal' multiply defined.
+
+
+LaTeX Warning: Label `awal' multiply defined.
+
+
+LaTeX Warning: Label `awal' multiply defined.
+
+
+LaTeX Warning: Label `License' multiply defined.
+
+
+LaTeX Warning: Label `User' multiply defined.
+
+
+LaTeX Warning: Label `Directory' multiply defined.
+
+
+LaTeX Warning: Label `opsi' multiply defined.
+
+
+LaTeX Warning: Label `Proses' multiply defined.
+
+
+LaTeX Warning: Label `Proses' multiply defined.
+
+
+LaTeX Warning: Label `offering' multiply defined.
+
+
+LaTeX Warning: Label `offering' multiply defined.
+
+
+LaTeX Warning: Label `akhir' multiply defined.
+
+
+LaTeX Warning: Label `akhir' multiply defined.
+
+
+LaTeX Warning: Label `akhir' multiply defined.
+
+
+LaTeX Warning: Label `awal' multiply defined.
+
+
+LaTeX Warning: Label `Finish' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
@@ -175,7 +253,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
 LaTeX Font Info:    ... okay on input line 129.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 129.
 
-("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+ ("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 ("C:\Users\dezha\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
@@ -300,46 +378,62 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 161.
  (info/contributors.tex) [5] [6
 
-]
-No file main.toc.
-[7] [8
+] (main.toc) [7] [8
 
-]
-No file main.toc.
+] (main.toc
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+ [] []  
+ []
+
+[9])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
-[9] [10
 
-]
-No file main.lof.
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10] (main.lof [11
+
+])
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
-[11] [12
 
-]
-No file main.lot.
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12] (main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
-[13] [14
+ [13
 
-]
-No file main.lol.
+] [14
+
+] (main.lol)
 \tf@lol=\write7
 \openout7 = `main.lol'.
 
-[15] [16
+ [15] [16
 
-] (info/foreword.tex) [17] [18
+] (info/foreword.tex) [17]
+[18
 
 ] (info/preface.tex) [19] [20
 
-]
-(info/acknowledgments.tex [21]) [22
+] (info/acknowledgments.tex [21]) [22
 
-] (info/acronyms.tex)
+]
+(info/acronyms.tex)
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 187.
 
 
@@ -952,7 +1046,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [26 <./figures/oni/8.png> <./figures/oni/9.png> <./figures/oni/10.png> <./figur
 es/oni/oni.png>]
-Overfull \hbox (9.70657pt too wide) in paragraph at lines 551--552
+Overfull \hbox (9.70657pt too wide) in paragraph at lines 552--553
 \OT1/ptm/m/n/10 lu-nak komer-sial. Dan lebi-h-nya lagi ba-hasa pe-mogra-man Pyt
 hon ini gratis atau \OT1/ptm/m/it/10 freewere\OT1/ptm/m/n/10 ,
  []
@@ -960,7 +1054,7 @@ hon ini gratis atau \OT1/ptm/m/it/10 freewere\OT1/ptm/m/n/10 ,
 <figures/dezha/Screenshot1.png, id=303, 496.10344pt x 305.64188pt>
 File: figures/dezha/Screenshot1.png Graphic file (type png)
 <use figures/dezha/Screenshot1.png>
-Package pdftex.def Info: figures/dezha/Screenshot1.png  used on input line 562.
+Package pdftex.def Info: figures/dezha/Screenshot1.png  used on input line 563.
 
 (pdftex.def)             Requested size: 85.35083pt x 85.35527pt.
 
@@ -975,31 +1069,31 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 <figures/dezha/Screenshot2.png, id=309, 376.40625pt x 291.33844pt>
 File: figures/dezha/Screenshot2.png Graphic file (type png)
 <use figures/dezha/Screenshot2.png>
-Package pdftex.def Info: figures/dezha/Screenshot2.png  used on input line 570.
+Package pdftex.def Info: figures/dezha/Screenshot2.png  used on input line 571.
 
 (pdftex.def)             Requested size: 85.35973pt x 85.35728pt.
 <figures/dezha/Screenshot3.png, id=310, 368.87813pt x 286.82156pt>
 File: figures/dezha/Screenshot3.png Graphic file (type png)
 <use figures/dezha/Screenshot3.png>
-Package pdftex.def Info: figures/dezha/Screenshot3.png  used on input line 577.
+Package pdftex.def Info: figures/dezha/Screenshot3.png  used on input line 578.
 
 (pdftex.def)             Requested size: 85.358pt x 85.35562pt.
 <figures/dezha/Screenshot4.png, id=311, 368.87813pt x 291.33844pt>
 File: figures/dezha/Screenshot4.png Graphic file (type png)
 <use figures/dezha/Screenshot4.png>
-Package pdftex.def Info: figures/dezha/Screenshot4.png  used on input line 584.
+Package pdftex.def Info: figures/dezha/Screenshot4.png  used on input line 585.
 
 (pdftex.def)             Requested size: 85.358pt x 85.35728pt.
 <figures/dezha/Screenshot5.png, id=312, 370.38374pt x 289.08pt>
 File: figures/dezha/Screenshot5.png Graphic file (type png)
 <use figures/dezha/Screenshot5.png>
-Package pdftex.def Info: figures/dezha/Screenshot5.png  used on input line 591.
+Package pdftex.def Info: figures/dezha/Screenshot5.png  used on input line 592.
 
 (pdftex.def)             Requested size: 85.356pt x 85.35725pt.
 <figures/dezha/Screenshot7.png, id=313, 369.63094pt x 288.3272pt>
 File: figures/dezha/Screenshot7.png Graphic file (type png)
 <use figures/dezha/Screenshot7.png>
-Package pdftex.def Info: figures/dezha/Screenshot7.png  used on input line 598.
+Package pdftex.def Info: figures/dezha/Screenshot7.png  used on input line 599.
 
 (pdftex.def)             Requested size: 85.35736pt x 85.35934pt.
 
@@ -1015,13 +1109,13 @@ res/dezha/Screenshot4.png> <./figures/dezha/Screenshot5.png>]
 <figures/dezha/Screenshot9.png, id=321, 368.87813pt x 288.3272pt>
 File: figures/dezha/Screenshot9.png Graphic file (type png)
 <use figures/dezha/Screenshot9.png>
-Package pdftex.def Info: figures/dezha/Screenshot9.png  used on input line 605.
+Package pdftex.def Info: figures/dezha/Screenshot9.png  used on input line 606.
 
 (pdftex.def)             Requested size: 85.358pt x 85.35934pt.
 <figures/dezha/Screenshot10.png, id=322, 1371.1225pt x 770.88pt>
 File: figures/dezha/Screenshot10.png Graphic file (type png)
 <use figures/dezha/Screenshot10.png>
-Package pdftex.def Info: figures/dezha/Screenshot10.png  used on input line 615
+Package pdftex.def Info: figures/dezha/Screenshot10.png  used on input line 616
 .
 (pdftex.def)             Requested size: 85.33928pt x 85.3499pt.
 )
@@ -1048,15 +1142,15 @@ No file main.ind.
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3600 strings out of 493305
- 55171 string characters out of 3129802
+ 3613 strings out of 493305
+ 55325 string characters out of 3129802
  297346 words of memory out of 3000000
  6999 multiletter control sequences out of 15000+200000
- 63002 words of font info for 114 fonts, out of 3000000 for 9000
+ 63332 words of font info for 115 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,14n,47p,1252b,383s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
@@ -1074,7 +1168,7 @@ mes/utmb8a.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
 w/times/utmbi8a.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
 e1/urw/times/utmr8a.pfb><C:/Users/dezha/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (63 pages, 9691628 bytes).
+Output written on main.pdf (63 pages, 9694461 bytes).
 PDF statistics:
  380 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
