@@ -756,3 +756,52 @@ cara memakai try except adalah sebagai berikut
 \subsection{Ketrampilan Penanganan Error}
     \lstinputlisting[language=Python]{src/felix.py}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Perintah Navigasi}
+Perintah navigasi direktori
+\section{Muhammad Dzihan Al-Banna}
+\subsection{Pemrograman Dasar}
+
+
+\subsection{Varialbel}
+Variabel merupakan sebuah ruang kosong yang digunakan untuk menyimapan suatu nilai atau data. Pada saat membuat sebuah variabel berarti sedang melakukan pemesanan pada sebuah ruang kosong di memori. Isi dari variabel itu dapat berubah atau mutable sesuai dengan operasi yang diinginkan. Saat program dieksekusi maka variabel yang akan bertugas menyimpan data. 
+Variabel dapat menyimpan berbagai macam tipe data. Dalam pemrograman Python, variabel mempunyai sifat dinamis, yang berarti variabel Python tidak perlu ditentukan tipe data tertentu dan variabel pada Python dapat diubah saat program dieksekusi.
+Cara penulisan python :
+\begin{enumerate}
+    \item Karakter pertama harus berupa huruf atau garis bawah
+    \item Karakter selanjutnya dapat berupa huruf, garis bawah atau angka
+    \item Karakter pada nama variabel bersifat sensitif (case-sensitif). Artinya penggunaan uruf besar dan huruf kecil sangat berpengaruh. Sebagai contoh, variabel Mahasiswa dan mahasiswa adalah variabel yang berbeda.    
+\lstinputlisting[firstline=7 , lastline=15]{src/dzihan.py}
+\subsection{input dan output}
+Input adalah masukan yang anda berikan kepada sebuah program dan system akan memproses lalu menampilkan ouputnya. Di dalam python sudah terdapat fungsi input dan rawinput. input digunakan untuk masukan bernilai angka sedangkan raw input untuk masukan bernilai teks.
+Beikut adalah cara untuk meminta input dan outputnya.
+\lstinputlisting[firstline=17 , lastline=33]{src/dzihan.py}
+\subsection{operator aritmatika}
+
+    \item Penjumlahan
+\lstinputlisting[firstline=36 , lastline=38]{src/dzihan.py}
+    \item Pengurangan
+\lstinputlisting[firstline=45 , lastline=48]{src/dzihan.py}
+    \item Perkalian
+\lstinputlisting[firstline=50 , lastline=53]{src/dzihan.py}
+    \item Mengubah String ke Integer
+\lstinputlisting[firstline=56 , lastline=60]{src/dzihan.py}
+    \item Mengubah Integer ke String
+\lstinputlisting[firstline=61 , lastline=64]{src/dzihan.py}
+\subsection{Perulangan}
+Secara umum, perintah pada bahasa pemrograman Python akan dijalankan secara berurutan. Pernyataan pertama dalam sebuah fungsi dijalankan pertama, lalu diikuti oleh yang kedua, dan seterusnya. Tetapi akan ada situasi  yang mengharuskan menulis banyak kode, dimana kode tersebut sangat banyak.
+\lstinputlisting[firstline=65 , lastline=71]{src/dzihan.py}
+\subsection{If Else}
+Pada saat pengambilan keputusan (kondisi if) digunakan untuk mengantisipasi kondisi yang akan terjadi saat program dijalankan.Dan akan menentukan tindakan apa yang akan diambil sesuai dengan kondisi program pada saat dieksekusi. Pada python ada beberapa kondisi diantaranya adalah if, else, dan elif. Kondisi if hanya bisa digunakan pada saat kondisi benar saja.
+\lstinputlisting[firstline=72 , lastline=76]{src/dzihan.py}
+\subsection{Penanganan Error}
+Biasanya yang paling mudah dikenali, kesalahan sintaksis terjadi ketika Anda membuat kesalahan ketik. Tidak mengakhiri pernyataan if dengan titik dua adalah contoh kesalahan sintak, seperti salah mengeja kata kunci Python (mis. Menggunakan whille alih-alih sementara). Kesalahan sintak biasanya muncul pada waktu kompilasi dan dilaporkan oleh interpreter. 
+Berikut ini contoh kesalahan sintaks:
+\lstinputlisting[firstline=78 , lastline=84]{src/dzihan.py}
+\subsection{Try Exception}
+Python memiliki banyak exceptions bawaan yang memaksa program untuk menghasilkan kesalahan ketika ada sesuatu yang salah di dalamnya. Ketika exceptions ini terjadi, itu menyebabkan proses saat ini berhenti dan meneruskannya ke proses panggilan sampai ditangani. Jika tidak ditangani, program ini akan macet.
+Misalnya, jika fungsi A memanggil fungsi B yang pada gilirannya memanggil fungsi C dan pengecualian terjadi di fungsi C. Jika tidak ditangani dalam C, pengecualian beralih ke B dan kemudian ke A. Jika tidak pernah ditangani, pesan kesalahan dilemparkan dan program ini terhenti secara tiba-tiba.
+\lstinputlisting[firstline= 85, lastline=93]{src/dzihan.py}
+\end{enumerate}
+\subsection{Keterampilan Penanganan Error}
+\lstinputlisting[firstline=1 , lastline=67]{src/tugasweb2.py}
