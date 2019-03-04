@@ -805,3 +805,164 @@ Misalnya, jika fungsi A memanggil fungsi B yang pada gilirannya memanggil fungsi
 \end{enumerate}
 \subsection{Keterampilan Penanganan Error}
 \lstinputlisting[firstline=1 , lastline=67]{src/tugasweb2.py}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Nico Ekklesia Sembiring}
+\subsection{Tugas Teori}
+\begin{enumerate}
+\item Variabel Number.
+Python memiliki berbagai jenis variabel yang merupakan lokasi untuk memori yang dipersiapkan untuk menyimpan nilai. Jenis-jenis variabel yang terdapat dalam python adalah sebagai berikut :
+\begin{itemize}
+    \item Variabel Number.
+    Variabel Number terdiri dari Integer, float, dan complex. 
+    Cara pemakaian variabel tersebut adalah dengan cara menuliaskan perintah print. dapat dilihat sebagai berikut.
+    \lstinputlisting[firstline=9, lastline=14]{src/1174096.py}
+   
+    \item Variabel String.
+    Variabel String merupakan rangkaian dari karakter yang berada diantara tanda kutip ("). String terdiri dari huruf dan angka yang digabung hingga menjadi bentuk teks.
+    Cara Penggunaan variabel string adalah sebagai berikut.
+    \lstinputlisting[firstline=17, lastline=24]{src/1174096.py}
+  
+    \item Variabel List
+    Variabel list merupakan variabel yang memiliki item yang berurutan. Cara Pemakaian variabel list yaitu dengan memanggil nama list yang diikuti dengan indeks dari item yang dipanggil. Dapat dilihat pada gambar berikut
+    \lstinputlisting[firstline=26, lastline=35]{src/1174096.py} 
+
+    \item Variabel Tuple
+    Variabel Tupel mirip dengan list, namun bersifat immutable(anggotanya tidak dapat diubah). Cara pemakaiannya yaitu dengan menggunakan tanda kurung dan anggotanya dipisah oleh tanda komma. dapat dilihat pada gambar berikut.
+    \lstinputlisting[firstline=38, lastline=42]{src/1174096.py}
+
+    \item Variabel Set
+    Variabel Set merupakan variabel yang tidak terurut. biasa digunakan untuk melakukan operasi himpunan matematika. Cara penggunaannya dapat dilihat dari gambar berikut
+    \lstinputlisting[firstline=46, lastline=60]{src/1174096.py}
+\end{itemize}
+
+\item Kode meminta Input dari User dan Output ke Layar
+Contoh kode yang dapat digunakan untuk meminta input dari User
+\lstinputlisting[firstline=63, lastline=64]{src/1174096.py}
+
+\item Operator Dasar Aritmatika
+\begin{itemize}
+    \item Penjumlahan(+).
+\lstinputlisting[firstline=67, lastline=69]{src/1174096.py}
+
+    \item Pengurangan(-).
+\lstinputlisting[firstline=72, lastline=74]{src/1174096.py}
+
+    \item Perkalian(*).
+\lstinputlisting[firstline=77, lastline=79]{src/1174096.py}
+
+    \item Pembagian(/).
+\lstinputlisting[firstline=82, lastline=44]{src/1174096.py}
+
+    \item Mengubah integer ke string.
+\lstinputlisting[firstline=87, lastline=88]{src/1174096.py}
+
+    \item Mengubah string ke integer.
+\lstinputlisting[firstline=91, lastline=92]{src/1174096.py}
+\end{itemize}
+
+    \item Sintaks Untuk Perulangan
+\begin{itemize}
+    \item Pengulangan While
+\lstinputlisting[firstline=95, lastline=98]{src/1174096.py}
+    \item Pengulangan For
+\lstinputlisting[firstline=101, lastline=103]{src/1174096.py}
+\end{itemize}
+
+\item Cara Memakai sintaks kondisi
+\lstinputlisting[firstline=106, lastline=111]{src/1174096.py}
+
+\item Macam Macam error
+\begin{itemize}
+    \item SystemError
+        Muncul saat penafsir menemukan masalah internal, namun bila kesalahan ini ditemui, bahasa Python tidak keluar.
+
+    \item SystemExit
+        Muncul saat bahasa Python berhenti dengan menggunakan fungsi sys.exit (). Jika tidak ditangani dalam kode, menyebabkan penafsir untuk keluar.
+
+    \item TypeError
+        Muncul saat operasi atau fungsi dicoba yang tidak valid untuk tipe data yang ditentukan.
+
+    \item ValueError
+        Muncul ketika fungsi bawaan untuk tipe data memiliki jenis argumen yang valid, namun argumen tersebut memiliki nilai yang tidak valid yang ditentukan.
+
+    \item RuntimeError
+        Muncul saat kesalahan yang dihasilkan tidak termasuk dalam kategori apa pun.
+
+    \item NotImplementedError
+        Muncul ketika metode abstrak yang perlu diimplementasikan di kelas warisan sebenarnya tidak dilaksanakan.
+
+    \item NameError
+        Muncul saat pengenal tidak ditemukan di namespace lokal atau global.
+
+    \item UnboundLocalError
+        Muncul saat mencoba mengakses variabel lokal dalam suatu fungsi atau metode namun tidak ada nilai yang ditugaskan padanya.
+
+    \item EnvironmentError
+        Muncul dasar untuk semua pengecualian yang terjadi di luar lingkungan Python.
+
+    \item IOError
+        Muncul saat operasi input / output gagal, seperti pernyataan cetak atau fungsi open () saat mencoba membuka file yang tidak ada.
+
+    \item OSError
+        Muncul untuk kesalahan terkait sistem operasi.
+
+    \item SyntaxError
+        Muncul saat ada kesalahan dengan sintaks Python.
+
+    \item IndentationError
+        Muncul saat indentasi tidak ditentukan dengan benar.
+    \end{itemize}
+
+\item Cara Memakai Try dan Except
+\lstinputlisting[firstline=114, lastline=120]{src/1174096.py}
+\end{enumerate}
+
+\subsection{Tugas Keterampilan Pemrograman}
+\begin{enumerate}
+\item Buatlah luaran huruf yang dirangkai dari tanda bintang, pagar atau plus dari
+    NPM kita. Tanda bintang untuk NPM mod 3=0, tanda pagar untuk NPM mod
+    3 =1, tanda plus untuk NPM mod3=2.
+    \lstinputlisting[firstline=128, lastline=136]{src/1174096.py}
+
+\item Buatlah program hello word dengan input NPM yang disimpan dalam sebuah
+    variabel string bernama NPM dan output sebanyak dua dijit belakang NPM.
+    \lstinputlisting[firstline=139, lastline=143]{src/1174096.py}
+    
+\item Buatlah program hello word dengan input nama yang disimpan dalam sebuah
+    variabel string bernama NPM dan beri luaran output berupa tiga karakter
+    belakang dari NPM sebanyak penjumlahan tiga dijit tersebut.
+    \lstinputlisting[firstline=146, lastline=150]{src/1174096.py}
+
+\item Buatlah program hello word dengan input nama yang disimpan dalam sebuah
+    variabel string bernama NPM dan beri luaran output berupa digit ketiga dari
+    belakang dari variabel NPM,
+    \lstinputlisting[firstline=153, lastline=154]{src/1174096.py}
+
+\item Buat program dengan mengisi variabel alfabet
+    dengan nomor npm satu persatu berurut.
+    \lstinputlisting[firstline=157, lastline=167]{src/1174096.py}
+
+\item Dari soal no 5, Lakukan penjumlahan dari seluruh variabel tersebut.
+    \lstinputlisting[firstline=170, lastline=170]{src/1174096.py}
+
+\item Dari soal no 5, Lakukan perkalian dari seluruh variabel tersebut.
+    \lstinputlisting[firstline=173, lastline=173]{src/1174096.py}
+
+\item Dari soal no 5, Lakukan print secara vertikal dari NPM anda menggunakan
+    variabel diatas.
+    \lstinputlisting[firstline=176, lastline=182]{src/1174096.py}
+
+\item Dari soal no 5, Lakukan print NPM anda tapi hanya dijit genap saja.
+    \lstinputlisting[firstline=185, lastline=185]{src/1174096.py}
+
+\item Dari soal no 5, Lakukan print NPM anda tapi hanya dijit ganjil saja.
+    \lstinputlisting[firstline=188, lastline=188]{src/1174096.py}
+
+\item Dari soal no 5, Lakukan print NPM anda tapi hanya dijit yang termasuk bilan-
+    gan prima saja.
+    \lstinputlisting[firstline=191, lastline=191]{src/1174096.py}
+
+\end{enumerate}
+\subsection{Ketrampilan Penanganan Error}
+    \lstinputlisting[language=Python]{src/2err.py}
