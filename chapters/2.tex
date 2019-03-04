@@ -1147,3 +1147,179 @@ Contoh kode yang dapat digunakan untuk meminta input dari User
 \end{enumerate}
 \subsection{Error}
     \lstinputlisting[language=Python]{src/err26.py}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Choirul Anam}
+\subsection{Teori}
+\begin{enumerate}
+    \item variable Python
+    Variabel merupakan tempat menyimpan data. Dalam phyton kita dapat membuat variable dengan cara sebagai berikut
+    \lstinputlisting[firstline=88, lastline=89]{src/1174004.py}
+
+    \item tuliskan bagaimana kode untuk meminta input dari user dan tuliskan bagaimana
+    melakukan output ke layar.
+    \lstinputlisting[firstline=92, lastline=93]{src/1174004.py}
+    \lstinputlisting[firstline=96, lastline=97]{src/1174004.py}
+
+    \item Tuliskan operator dasar aritmatika, tambah, kali, kurang bagi, dan bagaimana
+    mengubah string ke integer dan integer ke string
+    Operator  aritmatika adalah operator yang digunakan untuk melakukan perhitungan
+    \lstinputlisting[firstline=101, lastline=133]{src/1174004.py}
+  
+
+    \item Tuliskan dan jelaskan sintak untuk perulangan, jenis-jenisnya contoh kode dan
+    cara pakainya di python
+    Untuk Perulangan Pada Python ada For dan While, Untuk Contohnya bisa lihat gambar berikut :
+    \lstinputlisting[firstline=137, lastline=153]{src/1174004.py}
+
+    \item Tuliskan jelaskan cara pakai sintak untuk memilih kondisi, dan bagiamana con-
+    toh sintak kondisi di dalam kondisi.
+    Pengambilan kondisi If yang digunakan untuk mengantisipasi kondisi yang terjadi saat program dijalankan dan menentukan tindakan apa yang akan diambil sesuai dengan kondisi.
+    If statement
+    \lstinputlisting[firstline=156, lastline=169]{src/1174004.py}
+
+    \item Tuliskan apa saja jenis error yang sering ditemui di python dalam mengerjakan
+    sintak diatas. dan bagaimana cara mengatasinya
+    \begin{itemize}
+        \item Exception
+        Kelas dasar untuk semua pengecualian / exception
+
+        \item Stoplteration
+        Dibesarkan ketika metode (iterator) berikutnya dari iterator tidak mengarah ke objek apa pun.
+
+        \item SystemExit
+        Dibesarkan oleh fungsi sys.exit ().
+
+        \item StandardError
+        Kelas dasar untuk semua pengecualian built-in kecuali StopIteration dan SystemExit.
+
+        \item ArithmeticError
+        Kelas dasar untuk semua kesalahan yang terjadi untuk perhitungan numerik.
+
+        \item OverflowError
+        Dibesarkan saat perhitungan melebihi batas maksimum untuk tipe numerik.
+
+        \item FloatingPointError
+        Dibesarkan saat perhitungan floating point gagal.
+
+        \item ZeroDivisonError
+        Dibesarkan saat pembagian atau modulo nol dilakukan untuk semua tipe numerik.
+
+        \item AssertionError
+        Dibesarkan jika terjadi kegagalan pernyataan Assert.
+
+        \item AttributeError
+        Dibesarkan jika terjadi kegagalan referensi atribut atau penugasan.
+         
+        \item EOFError
+        Dibesarkan bila tidak ada input dari fungsi rawinput () atau input () dan akhir file tercapai.
+
+        \item ImportError
+        Dibesarkan saat sebuah pernyataan impor gagal.
+
+        \item KeyboardInterrupt
+        Dibesarkan saat pengguna menyela eksekusi program, biasanya dengan menekan Ctrl + c.
+
+        \item LookupError
+        Kelas dasar untuk semua kesalahan pencarian.
+
+        \item IndexError
+        Dibesarkan saat sebuah indeks tidak ditemukan secara berurutan.
+
+        \item KeyError
+        Dibesarkan saat kunci yang ditentukan tidak ditemukan dalam kamus.
+
+        \item NameError
+        Dibesarkan saat pengenal tidak ditemukan di namespace lokal atau global.
+
+        \item UnboundLocalError
+        Dibesarkan saat mencoba mengakses variabel lokal dalam suatu fungsi atau metode namun tidak ada nilai yang ditugaskan padanya.
+
+        \item EnvironmentError
+        Kelas dasar untuk semua pengecualian yang terjadi di luar lingkungan Python.
+
+        \item IOError
+        Dibesarkan saat operasi input / output gagal, seperti pernyataan cetak atau fungsi open () saat mencoba membuka file yang tidak ada.
+
+        \item OSError
+        Dibangkitkan untuk kesalahan terkait sistem operasi.
+
+        \item SyntaxError
+        Dibesarkan saat ada kesalahan dengan sintaks Python.
+
+        \item IndentationError
+        Dibesarkan saat indentasi tidak ditentukan dengan benar.
+
+        \item SystemError
+        Dibesarkan saat penafsir menemukan masalah internal, namun bila kesalahan ini ditemui juru bahasa Python tidak keluar.
+
+        \item SystemExit
+        Dibesarkan saat juru bahasa Python berhenti dengan menggunakan fungsi sys.exit (). Jika tidak ditangani dalam kode, menyebabkan penafsir untuk keluar.
+
+        \item TypeError
+        Dibesarkan saat operasi atau fungsi dicoba yang tidak valid untuk tipe data yang ditentukan.
+
+        \item ValueError
+        Dibesarkan ketika fungsi bawaan untuk tipe data memiliki jenis argumen yang valid, namun argumen tersebut memiliki nilai yang tidak valid yang ditentukan.
+
+        \item RuntimeError
+        Dibesarkan saat kesalahan yang dihasilkan tidak termasuk dalam kategori apa pun.
+
+        \item NotImplementedError
+        Dibesarkan ketika metode abstrak yang perlu diimplementasikan di kelas warisan sebenarnya tidak dilaksanakan.
+    \end{itemize}
+
+    \item Tuliskan dan jelaskan cara memakai Try Except.
+    \lstinputlisting[firstline=175, lastline=170]{src/1174004.py}
+
+\end{enumerate}
+\subsection{Ketrampilan Pemrograman}
+\begin{enumerate}
+    \item Buatlah luaran huruf yang dirangkai dari tanda bintang, pagar atau plus dari
+    NPM kita. Tanda bintang untuk NPM mod 3=0, tanda pagar untuk NPM mod
+    3 =1, tanda plus untuk NPM mod3=2.
+    \lstinputlisting[firstline=8, lastline=21]{src/1174004.py}
+
+    \item Buatlah program hello word dengan input NPM yang disimpan dalam sebuah
+    variabel string bernama NPM dan output sebanyak dua dijit belakang NPM.
+    \lstinputlisting[firstline=24, lastline=28]{src/1174004.py}
+    
+    \item Buatlah program hello word dengan input nama yang disimpan dalam sebuah
+    variabel string bernama NPM dan beri luaran output berupa tiga karakter
+    belakang dari NPM sebanyak penjumlahan tiga dijit tersebut.
+    \lstinputlisting[firstline=32, lastline=36]{src/1174004.py}
+
+    \item Buatlah program hello word dengan input nama yang disimpan dalam sebuah
+    variabel string bernama NPM dan beri luaran output berupa digit ketiga dari
+    belakang dari variabel NPM,
+    \lstinputlisting[firstline=39, lastline=40]{src/1174004.py}
+
+    \item Buat program dengan mengisi variabel alfabet
+    dengan nomor npm satu persatu berurut.
+    \lstinputlisting[firstline=43, lastline=53]{src/1174004.py}
+
+    \item Dari soal no 5, Lakukan penjumlahan dari seluruh variabel tersebut.
+    \lstinputlisting[firstline=55, lastline=56]{src/1174004.py}
+
+    \item Dari soal no 5, Lakukan perkalian dari seluruh variabel tersebut.
+    \lstinputlisting[firstline=58, lastline=59]{src/1174004.py}
+
+    \item Dari soal no 5, Lakukan print secara vertikal dari NPM anda menggunakan
+    variabel diatas.
+    \lstinputlisting[firstline=62, lastline=68]{src/1174004.py}
+
+    \item Dari soal no 5, Lakukan print NPM anda tapi hanya dijit genap saja.
+    \lstinputlisting[firstline=70, lastline=71]{src/1174004.py}
+
+    \item Dari soal no 5, Lakukan print NPM anda tapi hanya dijit ganjil saja.
+    \lstinputlisting[firstline=73, lastline=74]{src/1174004.py}
+
+    \item Dari soal no 5, Lakukan print NPM anda tapi hanya dijit yang termasuk bilan-
+    gan prima saja.
+    \lstinputlisting[firstline=76, lastline=77]{src/1174027.py}
+
+\end{enumerate}
+\subsection{Ketrampilan Penanganan Error}
+ \lstinputlisting[firstline=175, lastline=180]{src/1174004.py}
