@@ -1,13 +1,13 @@
-\contentsline {schapter}{Daftar Gambar}{xv}% 
-\contentsline {schapter}{Daftar Tabel}{xxi}% 
-\contentsline {schapter}{Foreword}{xxxiii}% 
-\contentsline {schapter}{Kata Pengantar}{xxxv}% 
-\contentsline {schapter}{Acknowledgments}{xxxvii}% 
-\contentsline {schapter}{Acronyms}{xxxix}% 
-\contentsline {schapter}{Glossary}{xli}% 
-\contentsline {schapter}{List of Symbols}{xliii}% 
-\contentsline {schapter}{Introduction}{xlv}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xlv}% 
+\contentsline {schapter}{Daftar Gambar}{xi}% 
+\contentsline {schapter}{Daftar Tabel}{xiii}% 
+\contentsline {schapter}{Foreword}{xvii}% 
+\contentsline {schapter}{Kata Pengantar}{xix}% 
+\contentsline {schapter}{Acknowledgments}{xxi}% 
+\contentsline {schapter}{Acronyms}{xxiii}% 
+\contentsline {schapter}{Glossary}{xxv}% 
+\contentsline {schapter}{List of Symbols}{xxvii}% 
+\contentsline {schapter}{Introduction}{xxix}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxix}% 
 \contentsline {chapter}{\numberline {1}SEJARAH DAN KARAKTERISTIK PYTHON}{1}% 
 \contentsline {section}{\numberline {1.1}Dwi Yulianingsih}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Sejarah Phyton}{1}% 
@@ -179,4 +179,8 @@
 \contentsline {subsubsection}{\numberline {2.18.1.7}Try Except}{168}% 
 \contentsline {subsection}{\numberline {2.18.2}Keterampilan Pemrograman}{169}% 
 \contentsline {subsection}{\numberline {2.18.3}Keterampilan Penanganan Error}{171}% 
-\contentsline {schapter}{Daftar Pustaka}{173}% 
+\contentsline {section}{\numberline {2.19}Rahmatul Ridha}{171}% 
+\contentsline {subsection}{\numberline {2.19.1}Teori}{171}% 
+\contentsline {subsection}{\numberline {2.19.2}praktek}{174}% 
+\contentsline {subsection}{\numberline {2.19.3}Keterangan dan Penanganan eror}{176}% 
+\contentsline {schapter}{Daftar Pustaka}{177}% 
