@@ -1,187 +1,17 @@
+# -*- coding: utf-8 -*-
 """
-Spyder Editor
+Created on Mon Mar 11 16:14:18 2019
 
-This is a temporary script file.
+@author: Aegis
 """
-
-#No.1
-print (1174026%3)
-print("***  ***  *********** ***   ***  *********  *********  *********")
-print("***  ***  **********  ***   ***  *********  *********  *********")
-print("***  ***        ***   ***   ***  ***   ***        ***  ***      ")
-print("***  ***       ***    ***   ***  ***   ***        ***  ***      ")
-print("***  ***      ***     *********  ***   ***  *********  *********")
-print("***  ***     ***            ***  ***   ***  ***        ***   ***")
-print("***  ***    ***             ***  ***   ***  ***        ***   ***")
-print("***  ***   ***              ***  *********  *********  *********")
-print("***  ***  ***               ***  *********  *********  *********")
-
-#No.2
-npm  = input("Masukan NPM :")
-hitung = 0
-while(hitung < 26):
-    print("Halo, " + str(npm) + " Apa Kabar?")
-    hitung = hitung +1
-
-#No.3    
-npm =  input("Masukan NPM :")
-hitung = 0
-while(hitung < 8):
-    print("Halo, " + str(npm[4:7]) + " Apa Kabar?")
-    hitung = hitung +1
+class learn:
+    def __init__(self,a,b):
+        self.a = a
+        self.b = b
     
-#No.4
-npm = input("Masukan NPM :")
-print("Halo, " + str(npm[-3]) + " Apa Kabar?")
-
-#No.5
-a = 1
-b = 1
-c = 7
-d = 4
-e = 0
-f = 2
-g = 6
-h = a+b+c+d+e+f+g
-i = a*b*c*d*e*f*g
-
-print(a,b,c,d,e,f,g)
-
-#No.6
-print(h)
-
-#No.7
-print(i)
-
-#No.8
-print(a)
-print(b)
-print(c)
-print(d)
-print(e)
-print(f)
-print(g)
-
-#No.9
-print(d,e,g)
-
-#No.10
-print(a,b,c)
-
-#No.11
-print(c,f)
-#
-#j = "hati"
-#k = 1
-#print("Tetap" +str(j),k)
-#
-#l = input("Masukan NPM :")
-#print("NPM Kamu Adalah : "+l)
-#
-#m = 10
-#n = 2
-#o = j + k
-#3p = j * k 
-#q = j - k
-#r = j / k
-#s = "10"
-#print(o,p,q,r)
-#print(int(s))
-#print(str(m))
-#
-#t = 12
-#for u in range(t):
-#    print("Ini Yang Ke : "+str(u))
-#
-#while(t <= 15):
-#    print("Yap Ini Betul")
-#    t = t + 1
-#
-#v = 12
-#if(v==12):
-#    print("Dua Belas")
-#
-#if(v==13):
-#    print("Tiga Belas")
-#else:
-#    print("Dua Belas")
-#    
-#if(v==11):
-#    print("Sebelas")
-#elif(v==12):
-#    print("Sebelas")
-#else :
-#    print("Tiga Belas")
-#
-#w = 10
-#x = "10"
-#try:
-#    y = w+x
-#    print(y)
-#except TypeError:
-#    print("We Are Different")
-    
-def uji():
-    print("Tugas Web Service")
-
-uji()
-
-def uji_param(nama):
-    print("Nama saya :"+str(nama))
-
-uji_param(input("Masukan Nama Kamu : "))
-
-def uji_return(a,b):
-    r = a + b
-    return r
-
-a = 10
-b = 50
-c = uji_return(a,b)
-print(c)
-
-#from fungsi_felix import *
-#print(penulisan(int(input("Masukan NPM kamu : "))))
-
-#class Employee:
-#   'Common base class for all employees'
-#   empCount = 0
-
-#   def __init__(self, name, salary):
-#      self.name = name
-#      self.salary = salary
-#      Employee.empCount += 1
-   
-#   def displayCount(self):
-#     print ("Total Employee %d" % Employee.empCount)
-
-#   def displayEmployee(self):
-#      print ("Name : ", self.name,  ", Salary: ", self.salary)
-
-
-#This would create first object of Employee class"
-#emp1 = Employee("Zara", 2000)
-#This would create second object of Employee class"
-#emp2 = Employee("Manni", 5000)
-#emp1.displayEmployee()
-#emp2.displayEmployee()
-#print ("Total Employee %d" % Employee.empCount)
-
-#import belajar
-#a = 100
-#b = 50
-
-#c = belajar.penambahan(a,b)
-#print(c)
-
-#def penanganan_error(a,b):
-#    try :
-#        c = a+b
-#        print(c)
-#    except TypeError:
-#        print("kita beda")
-
-
+    def penambahan(self):
+        r = self.a + self.b
+        return r
 #No 1
 def speakup(npm):
     npm = list(str(npm))
@@ -231,16 +61,12 @@ def speakup(npm):
     print(*hasil9, sep=' ')
     print(*hasil10, sep=' ')
 
-speakup(int(input("Masukan NPM : 117")))
-
 #No 2
 def looping(npm):
     hitung = 0
     while(hitung < 26):
         print("Haiiiii, "+str(npm)+" apa kabar?")
         hitung = hitung +1
-        
-looping(int(input("Masukan NPM : ")))
 
 #No 3
 def looping_3_digit(npm):
@@ -251,24 +77,17 @@ def looping_3_digit(npm):
     while(hitung < 8):
         print("Halo, "+bil+" apa kabar?")
         hitung = hitung +1
-        
-looping_3_digit(int(input("Masukan NPM : ")))
 
 #No 4
 def looping_3_digit_terakhir(npm):
     npm = str(npm)
     bil = npm[-3]  
     print("Haiii, "+bil+" apa kabar?")
-    
-looping_3_digit_terakhir(int(input("Masukan NPM : ")))
 
 #No 5
-def down(npm):
+def turun(npm):
     for i in npm:
         print (i)
-        
-down(input("Masukan NPM : "))
-
 
 #No 6
 def addition(npm):
@@ -276,8 +95,6 @@ def addition(npm):
     for i in npm:
         jumlah += int(i)
     print(str(jumlah)+" Adalah hasil penjumlahan")
-    
-addition(input("Masukan NPM : "))
 
 #No 7
 def multiplication(npm):
@@ -285,8 +102,6 @@ def multiplication(npm):
     for i in npm:
         jumlah *= int(i)
     print(str(jumlah)+" Adalah hasil perkalian")
-    
-multiplication(input("Masukan NPM : "))
 
 #No 8
 def even():
@@ -294,8 +109,6 @@ def even():
     for i in npm:
         if (i % 2) == 0:
             print("Bilangan Genapnya : "+str(i))
-            
-even()
 
 #No 9 
 def odd():
@@ -303,8 +116,6 @@ def odd():
     for i in npm:
         if (i%2)==1:
             print("Bilangan Ganjilnya : "+str(i))
-            
-odd()
 
 #No 10
 def prime(npm):
@@ -320,4 +131,3 @@ def prime(npm):
                 print("Bilangan Primanya :"+str(num))
     else:
         print("Tidak Ada Bilangan Prima")
-prime(int(input("Masukan NPM : ")))
